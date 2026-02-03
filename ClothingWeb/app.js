@@ -16,7 +16,7 @@ const PRODUCTS = [
     image:
       "file:///E:/ClothingWeb/tshirt1.jpg",
     description:
-      "Sharp lines, soft structure. This blazer layers effortlessly with tonal basics and elevated silhouettes.",
+      "Sharp lines, soft structure. This tshirt layers effortlessly with tonal basics and elevated silhouettes.",
     category: "Outerwear",
   },
   {
@@ -440,4 +440,5 @@ const initPage = () => {
 };
 
 document.addEventListener("DOMContentLoaded", initPage);
+
 
