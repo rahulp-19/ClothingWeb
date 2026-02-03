@@ -1,8 +1,8 @@
 const PRODUCTS = [
   {
     id: 1,
-    name: "Aurora Satin Dress",
-    price: 129,
+    name: "Anarkali",
+    price: 999,
     image:
       "file:///E:/ClothingWeb/anarkali1.jpg",
     description:
@@ -11,8 +11,8 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    name: "Noir Tailored Blazer",
-    price: 168,
+    name: "Tshirt1",
+    price: 499,
     image:
       "file:///E:/ClothingWeb/tshirt1.jpg",
     description:
@@ -21,8 +21,8 @@ const PRODUCTS = [
   },
   {
     id: 3,
-    name: "Cloud Knit Set",
-    price: 142,
+    name: "Tshirt2",
+    price: 599,
     image:
       "file:///E:/ClothingWeb/tshirt2.jpg",
     description:
@@ -440,3 +440,4 @@ const initPage = () => {
 };
 
 document.addEventListener("DOMContentLoaded", initPage);
+
