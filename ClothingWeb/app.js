@@ -4,7 +4,7 @@ const PRODUCTS = [
     name: "Anarkali",
     price: 999,
     image:
-      "file:///E:/ClothingWeb/anarkali1.jpg",
+      "ClothingWeb/image/anarkali1.jpg",
     description:
       "Fluid satin with a gentle glow, designed to move like light. Statement shoulders and a modern drape keep it timeless.",
     category: "Dresses",
@@ -14,7 +14,7 @@ const PRODUCTS = [
     name: "Tshirt1",
     price: 499,
     image:
-      "file:///E:/ClothingWeb/tshirt1.jpg",
+      "ClothingWeb/image/tshirt1.jpg",
     description:
       "Sharp lines, soft structure. This tshirt layers effortlessly with tonal basics and elevated silhouettes.",
     category: "Outerwear",
@@ -24,7 +24,7 @@ const PRODUCTS = [
     name: "Tshirt2",
     price: 599,
     image:
-      "file:///E:/ClothingWeb/tshirt2.jpg",
+      "ClothingWeb/image/tshirt2.jpg",
     description:
       "A cloud-soft knit co-ord in a pastel hue. Pair together or style separately for capsule versatility.",
     category: "Sets",
@@ -34,7 +34,7 @@ const PRODUCTS = [
     name: "Sandstone Utility Skirt",
     price: 89,
     image:
-      "file:///E:/ClothingWeb/anarkali1.jpg",
+      "ClothingWeb/image/anarkali1.jpg",
     description:
       "A minimalist utility skirt with sculpted pockets and a soft matte finish. Made for all-day wear.",
     category: "Skirts",
@@ -44,7 +44,7 @@ const PRODUCTS = [
     name: "Luna Sheer Blouse",
     price: 74,
     image:
-      "file:///E:/ClothingWeb/tshirt1.jpg",
+      "ClothingWeb/image/tshirt1.jpg",
     description:
       "Lightweight sheer fabric with delicate pleats. Layer over bralettes or tanks for evening energy.",
     category: "Tops",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     name: "Velvet Daydream Pants",
     price: 118,
     image:
-      "file:///E:/ClothingWeb/tshirt2.jpg",
+      "ClothingWeb/image/tshirt2.jpg",
     description:
       "Velvet-wide leg pants with a high-rise waistline. Luxe texture meets everyday ease.",
     category: "Bottoms",
@@ -440,5 +440,6 @@ const initPage = () => {
 };
 
 document.addEventListener("DOMContentLoaded", initPage);
+
 
 
